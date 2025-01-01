@@ -16,20 +16,20 @@ const Carts = ({addCarts,hadlerAddToCart,hadlerRemoveFromCart}) => {
         .then(data => setCarts(data))
     },[])
     return (
-        <div className="mx-10 mt-5 ">
+        <div className="lg:mx-10 mt-5 mx-auto">
             <div className="text-center">
                 <h1 className="text-4xl font-bold">Our Recipes </h1>
                 <p className="mt-4">At The Rustic Table, the menu celebrates the rich tapestry of flavors from around the world, <br /> with a focus on locally-sourced, seasonal ingredients. From hearty classics to innovative creations, <br /> each dish is crafted with care and passion by our team of talented chefs.</p>
             </div>
-        
-            <div className="flex justify-between mt-20">
-                <div className="grid grid-cols-2 gap-10 ">
+            {/* left card */}
+            <div className="lg:flex justify-between mt-20">
+                <div className="lg:grid grid-cols-2 gap-4">
                     {
                         carts.map(cart => <Cart key={carts.recipe_id} hadlerAddToCart = {hadlerAddToCart} cart = {cart} ></Cart>)
                     }
                 </div>
-                
-                <div className="w-[320px] h-[100%] border-2 rounded-2xl p-4">
+                {/* right card */}
+                <div className="lg:w-[320px] border-2 rounded-2xl p-4">
                     <div>
                         <h1 className="text-xl font-bold text-center">Went to Cook : {addCarts.length} </h1> <br />
                         <hr />
@@ -67,8 +67,6 @@ const Carts = ({addCarts,hadlerAddToCart,hadlerRemoveFromCart}) => {
                     </div>
                 </div>
             </div>
-            
-            
         </div>
     );
 };
