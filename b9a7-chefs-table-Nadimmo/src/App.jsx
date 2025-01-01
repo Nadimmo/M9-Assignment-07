@@ -26,7 +26,6 @@ function App() {
   return (
     <div>
       <Header></Header>
-      <br /><br /><br /><br /><br /><br /><br /><br />
       <Carts 
         key={addCarts.recipe_id}
         addCarts={addCarts} 
