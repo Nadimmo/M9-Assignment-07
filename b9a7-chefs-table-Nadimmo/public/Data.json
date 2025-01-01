@@ -1,6 +1,6 @@
 [
     {
-      "recipe_image": "https://i.ibb.co/gWK4qJj/Teriyaki-Chicken-Stir-Fry2.jpg",
+      "recipe_image": "https://i.ibb.co.com/gWK4qJj/Teriyaki-Chicken-Stir-Fry2.jpg",
       "recipe_id": "001",
       "recipe_name": "Teriyaki Chicken Stir-Fry",
       "short_description": "A delicious and easy-to-make stir-fry with tender chicken, vegetables, and a flavorful teriyaki sauce.",
@@ -9,7 +9,7 @@
       "calories": "320 calories"
     },
     {
-      "recipe_image": "https://i.ibb.co/bJkgXNy/Mediterranean-Quinoa-Salad.jpg",
+      "recipe_image": "https://i.ibb.co.com/bJkgXNy/Mediterranean-Quinoa-Salad.jpg",
       "recipe_id": "002",
       "recipe_name": "Mediterranean Quinoa Salad",
       "short_description": "A refreshing salad packed with  featuring quinoa, cherry tomatoes, cucumber, feta cheese, and olives.",
@@ -18,7 +18,7 @@
       "calories": "250 calories"
     },
     {
-      "recipe_image": "https://i.ibb.co/nPzVZN8/Spaghetti-Carbonara.jpg",
+      "recipe_image": "https://i.ibb.co.com/nPzVZN8/Spaghetti-Carbonara.jpg",
       "recipe_id": "003",
       "recipe_name": "Spaghetti Carbonara",
       "short_description": "Classic Italian pasta dish made with spaghetti, eggs, pancetta, and Parmesan cheese in a creamy sauce.",
@@ -27,7 +27,7 @@
       "calories": "450 calories"
     },
     {
-      "recipe_image": "https://i.ibb.co/GkgXFhk/Vegetable-Stir-Fry.jpg",
+      "recipe_image": "https://i.ibb.co.com/GkgXFhk/Vegetable-Stir-Fry.jpg",
       "recipe_id": "004",
       "recipe_name": "Vegetable Stir-Fry",
       "short_description": "A colorful and healthy stir-fry featuring an assortment of fresh vegetables cooked in a savory sauce.",
@@ -36,7 +36,7 @@
       "calories": "200 calories"
     },
     {
-      "recipe_image": "https://i.ibb.co/R6pjgbg/Grilled-Salmon-with-Lemon.jpg",
+      "recipe_image": "https://i.ibb.co.com/R6pjgbg/Grilled-Salmon-with-Lemon.jpg",
       "recipe_id": "005",
       "recipe_name": "Grilled Salmon with Lemon",
       "short_description": "Juicy grilled salmon fillets seasoned with a zesty lemon herb butter, perfect for a quick and flavorful dinner.",
@@ -45,7 +45,7 @@
       "calories": "350 calories"
     },
     {
-      "recipe_image": "https://i.ibb.co/qdW6Bnp/Vegan-Chili.jpg",
+      "recipe_image": "https://i.ibb.co.com/qdW6Bnp/Vegan-Chili.jpg",
       "recipe_id": "006",
       "recipe_name": "Vegan Chili",
       "short_description": "Hearty and satisfying vegan chili loaded with beans, vegetables, and spices, perfect for a cozy meal.",
