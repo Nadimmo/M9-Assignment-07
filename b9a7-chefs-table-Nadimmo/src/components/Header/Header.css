@@ -1,5 +1,11 @@
-.ul{
+.ul {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 15px;
+}
+
+@media (max-width: 640px) {
+    .ul {
+        display: none;
+    }
 }
